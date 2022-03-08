@@ -14,5 +14,5 @@
 * Python
 
 ## Tools
-* Google Colab notebook, Jupyter notebook.
+* Google Colab research, Jupyter notebook.
 
